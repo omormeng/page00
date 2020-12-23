@@ -1,7 +1,7 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: research
 
 # This file represents a page section.
 headless: true
@@ -10,6 +10,10 @@ headless: true
 weight: 65
 
 title: Representative Publications
+
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
 item:
 - description: ""
