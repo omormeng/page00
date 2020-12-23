@@ -39,9 +39,6 @@ item:
   organization_url: 
   title: Wholesale Price Discrimination in Global Sourcing
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3290336
-
----
-
 - certificate_url: 
   date_end: ""
   date_start: "2017-07-01"
@@ -50,6 +47,10 @@ item:
   organization_url: 
   title: Value of High-Quality Logistics: Evidence from a Clash Between SF Express and Alibaba
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3234023
+  
+---
+
+
 
 
 - certificate_url: 
