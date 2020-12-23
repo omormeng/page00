@@ -10,7 +10,7 @@ social: []
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Rutgers University
+- name: Rutgers University, School of Business
   
 education:
   courses:
