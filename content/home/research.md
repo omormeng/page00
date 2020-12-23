@@ -45,7 +45,7 @@ item:
   description: ""
   organization: Management Science
   organization_url: 
-  title: Value of High-Quality Logistics: Evidence from a Clash Between SF Express and Alibaba
+  title: "Value of High-Quality Logistics: Evidence from a Clash Between SF Express and Alibaba"
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3234023
   
 ---
