@@ -1,6 +1,7 @@
 ---
 title: Example Project
-summary: An example of using the in-built project page.
+summary: AI and procurement (with Ruomeng Cui and Shichen Zhang), Manufacturing and Service Operations Management, Forthcoming.
+summary: Wholesale price discrimination in global sourcing (with Ruomeng Cui, Jingyun Li, and Lili Yu), Manufacturing and Service Operations Management, Forthcoming
 tags:
 - Deep Learning
 date: ""
