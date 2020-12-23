@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Representative Publications'
 subtitle:
 
 # Date format
@@ -27,9 +27,9 @@ item:
   date_end: ""
   date_start: ""
   description: ""
-  organization: 
-  organization_url: 
-  title: Neural
+  organization: ""
+  organization_url: ""
+  title: AI and procurement (with Ruomeng Cui and Shichen Zhang), Manufacturing and Service Operations Management, Forthcoming.
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
