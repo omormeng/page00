@@ -10,7 +10,6 @@ headless: true
 weight: 65
 
 title: Representative Publications
-subtitle: ''
 
 item:
 - description: ""
