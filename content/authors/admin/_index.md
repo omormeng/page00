@@ -17,7 +17,7 @@ education:
     - course: Ph.D., University of Texas at Dallas
       institution: "  "
       year: ""
-email: ""
+email: "meng.li@rutgers.edu"
 superuser: true
 highlight_name: false
 ---
