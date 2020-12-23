@@ -47,12 +47,6 @@ item:
   organization_url: 
   title: "Value of High-Quality Logistics: Evidence from a Clash Between SF Express and Alibaba"
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3234023
-  
----
-
-
-
-
 - certificate_url: 
   date_end: ""
   date_start: "2018-02-15"
@@ -94,3 +88,9 @@ item:
   organization_url: 
   title: "Inventory Control with a Cash Register: Sales Recorded but Not Demand or Shrinkage"
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1881988
+  
+---
+
+
+
+
