@@ -6,7 +6,10 @@ interests:
   - Supply Chain Management
   - Manager Behavior
   - Decision Making With Incomplete Information
-social: []
+social: 
+- email: meng.li@rutgers.edu
+- phone: (856)225-6494
+- address: 227 Penn Street, Camden, NJ 08102
 
 # Organizations/Affiliations to show in About widget
 organizations:
