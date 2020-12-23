@@ -25,10 +25,10 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2018-12-01"
+  date_start: ""
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
+  organization: 
+  organization_url: 
   title: Neural
   url: ""
 - certificate_url: https://www.edx.org
