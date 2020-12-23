@@ -1,42 +1,41 @@
 ---
-# An instance of the Accomplishments widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: teaching
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 0
+weight: 70
 
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Representative Publications'
+title: 'Recent & Upcoming Talks'
 subtitle:
 
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+content:
+  # Page type to display. E.g. post, talk, publication...
+  page_type: talk
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 5
+  # Filter on criteria
+  filters:
+    author: ""
+    category: ""
+    tag: ""
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+    publication_type: ""
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
 
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
-- description: ""
-  title: AI and procurement (with Ruomeng Cui and Shichen Zhang), Manufacturing and Service Operations Management, Forthcoming
-- description: ""
-  title: Wholesale price discrimination in global sourcing (with Ruomeng Cui, Jingyun Li, and Lili Yu), Manufacturing and Service Operations Management, Forthcoming
-- description: ""
-  title: Value of high-quality logistics: Evidence from a clash between SF Express and Alibaba (with Ruomeng Cui and Qiang Li), Management Science, Forthcoming.
-- description: ""
-  title: Incumbent repositioning with decision biases (with Xianjin Du and Brian Wu), Strategic Management Journal, Forthcoming
-- description: ""
-  title: Overconfident distribution channels, Production and Operations Management, 28 (6), 2019, 1347-1365
-- description: ""
-  title: Technical Note – Demand uncertainty reduction in decentralized supply chains (with Nicholas Petruzzi), Production and Operations Management, 26 (1), 2017, 156-161
-- description: ""
-  title: Overconfident competing newsvendors (with Nicholas Petruzzi and Jun Zhang), Management Science, 63(8), 2017, 2637-2646
-- description: ""
-  title: Managing inventory with cash register information: Sales recorded but not demands (with Alain Bensoussan, Metin Cakanyildirim, and Suresh P. Sethi), Production and Operations Management, 25(1), 2016, 9-21 (Covered by ScienceDaily, AAAS, and UTDallas News)
+design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 2
 ---
