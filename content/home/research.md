@@ -31,7 +31,14 @@ item:
   organization_url: 
   title: AI and procurement
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3570967
-
+- certificate_url: https://www.edx.org
+  date_end: ""
+  date_start: "2018-03-01"
+  description: Formulated informed blockchain models, hypotheses, and use cases.
+  organization: edX
+  organization_url: https://www.edx.org
+  title: Blockchain Fundamentals
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 
 ---
 - certificate_url: 
