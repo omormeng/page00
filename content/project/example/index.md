@@ -1,21 +1,8 @@
 ---
-title: Example Project
+title: 
 summary: AI and procurement (with Ruomeng Cui and Shichen Zhang), Manufacturing and Service Operations Management, Forthcoming.
+title: 
 summary: Wholesale price discrimination in global sourcing (with Ruomeng Cui, Jingyun Li, and Lili Yu), Manufacturing and Service Operations Management, Forthcoming
-tags:
-- Deep Learning
-date: ""
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-image:
-
-links:
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
   
 ---
 
