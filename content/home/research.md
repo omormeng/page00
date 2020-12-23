@@ -92,5 +92,5 @@ item:
   description: ""
   organization: "   "
   organization_url: 
-  title: Inventory Control with a Cash Register: Sales Recorded but Not Demand or Shrinkage
+  title: "Inventory Control with a Cash Register: Sales Recorded but Not Demand or Shrinkage"
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1881988
