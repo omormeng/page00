@@ -1,6 +1,7 @@
 ---
 title: 
 summary: AI and procurement (with Ruomeng Cui and Shichen Zhang), Manufacturing and Service Operations Management, Forthcoming.
+
 title: 
 summary: Wholesale price discrimination in global sourcing (with Ruomeng Cui, Jingyun Li, and Lili Yu), Manufacturing and Service Operations Management, Forthcoming
   
