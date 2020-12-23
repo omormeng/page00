@@ -23,6 +23,17 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: https://www.coursera.org
+  date_end: ""
+  date_start: "2020-04-07"
+  description: ""
+  organization: Manufacturing & Service Operations Management
+  organization_url: 
+  title: AI and procurement
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3570967
+
+---
+
 - certificate_url: ""
   date_end: ""
   date_start: "2020-04-07"
