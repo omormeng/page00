@@ -63,6 +63,9 @@ item:
   organization_url: 
   title: Overconfident Distribution Channels
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3403669
+
+
+---
 - certificate_url: 
   date_end: ""
   date_start: "2014-03-29"
@@ -72,8 +75,6 @@ item:
   title: Technical Note - Demand Uncertainty Reduction in Decentralized Supply Chains
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2417039
 
-
----
 - certificate_url: 
   date_end: ""
   date_start: "2015-10-29"
