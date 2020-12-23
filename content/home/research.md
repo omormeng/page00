@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: "" 
-  date_end: ""
-  date_start: ""
-  description: ""
-  organization: ""
+- certificate_url: 
+  date_end: 
+  date_start: " "
+  description: 
+  organization: " "
   organization_url: ""
   title: AI and procurement (with Ruomeng Cui and Shichen Zhang), Manufacturing and Service Operations Management, Forthcoming.
   url: ""
