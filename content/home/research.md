@@ -31,6 +31,9 @@ item:
   organization_url: 
   title: AI and procurement
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3570967
+
+
+---
 - certificate_url: 
   date_end: ""
   date_start: "2018-11-26"
@@ -49,8 +52,6 @@ item:
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3234023
 
 
-
----
 - certificate_url: 
   date_end: ""
   date_start: "2018-02-15"
