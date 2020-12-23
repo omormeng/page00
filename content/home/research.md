@@ -25,12 +25,12 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: 
-  date_start: " "
+  date_start: "2020-04-07"
   description: 
-  organization: " "
+  organization: "SSRN"
   organization_url: ""
   title: AI and procurement (with Ruomeng Cui and Shichen Zhang), Manufacturing and Service Operations Management, Forthcoming.
-  url: ""
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3570967"
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2018-03-01"
