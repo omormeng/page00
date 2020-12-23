@@ -7,7 +7,11 @@ interests:
   - Manager Behavior
   - Decision Making With Incomplete Information
 social: []
-organizations: []
+
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: Rutgers University
+  
 education:
   courses:
     - course: Ph.D., University of Texas at Dallas
