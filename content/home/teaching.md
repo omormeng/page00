@@ -28,4 +28,6 @@ item:
 - Operations Management
 - Management Decision Models
 - Business Statistics
+- Management Science
+- Optimization and Spreadsheet Modeling
 ---
