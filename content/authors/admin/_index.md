@@ -4,8 +4,8 @@ role: Associate Professor
 bio: ""
 interests:
   - Supply Chain Management
-  - Manager Behavior
-  - Decision Making With Incomplete Information
+  - Managerial Behavior
+  - Learning and Earning
 social: []
 organizations:
   - name: Rutgers University, School of Business
