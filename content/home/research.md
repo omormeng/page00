@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+# date_format: Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -23,7 +23,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-#1
 - certificate_url: 
   date_end: ""
   date_start: "with Yan Liu"
@@ -32,7 +31,6 @@ item:
   organization_url: 
   title: Managerial Regret and Inventory Pricing
   url: 
-#2
 - certificate_url: 
   date_end: ""
   date_start: ""
@@ -41,7 +39,6 @@ item:
   organization_url: 
   title: AI and procurement 
   url: 
-#3
 - certificate_url: 
   date_end: ""
   date_start: "2020-04-07"
@@ -50,7 +47,6 @@ item:
   organization_url: 
   title: Wholesale price discrimination in global sourcing
   url: "media/Regret_Revision2.pdf"
-#4
 - certificate_url: 
   date_end: ""
   date_start: "2018-11-26"
