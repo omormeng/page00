@@ -26,10 +26,10 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "   "
-  description: "Forthcoming. 3"
-  organization: Managerial regret and pricing (with Yan Liu)
+  description: ""
+  organization: Managerial regret and pricing  |  Forthcoming. 3
   organization_url: 
-  title: Managerial regret and pricing 
+  title: Managerial regret and pricing (with Yan Liu)
   url: "media/Regret_Revision2.pdf"
 - certificate_url: 
   date_end: ""
