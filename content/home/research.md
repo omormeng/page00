@@ -27,6 +27,14 @@ item:
   date_end: ""
   date_start: "2020-04-07"
   description: ""
+  organization: Management Science
+  organization_url: 
+  title: Managerial Regret and Inventory Pricing
+  url: 
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-04-07"
+  description: ""
   organization: Manufacturing & Service Operations Management
   organization_url: 
   title: AI and procurement
