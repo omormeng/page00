@@ -26,7 +26,7 @@ subtitle:
 item:
 - certificate_url: 
   date_end: ""
-  date_start: ""
+  date_start: "2019-06-13"
   description: ""
   organization: Managerial regret and pricing  |  Forthcoming. 3
   organization_url: 
