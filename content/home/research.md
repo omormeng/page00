@@ -23,29 +23,41 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+#1
 - certificate_url: 
   date_end: ""
-  date_start: "2020-04-07"
+  date_start: "with Yan Liu"
   description: ""
   organization: Management Science
   organization_url: 
   title: Managerial Regret and Inventory Pricing
   url: 
+#2
+- certificate_url: 
+  date_end: ""
+  date_start: ""
+  description: ""
+  organization: Manufacturing and Service Operations Management
+  organization_url: 
+  title: AI and procurement 
+  url: 
+#3
 - certificate_url: 
   date_end: ""
   date_start: "2020-04-07"
   description: ""
   organization: Manufacturing & Service Operations Management
   organization_url: 
-  title: AI and procurement
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3570967
+  title: Wholesale price discrimination in global sourcing
+  url: "media/Regret_Revision2.pdf"
+#4
 - certificate_url: 
   date_end: ""
   date_start: "2018-11-26"
   description: ""
-  organization: Manufacturing & Service Operations Management
+  organization: Management Science
   organization_url: 
-  title: Wholesale Price Discrimination in Global Sourcing
+  title: Value of high-quality logistics: Evidence from a clash between SF Express and Alibaba
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3290336
 - certificate_url: 
   date_end: ""
@@ -79,7 +91,6 @@ item:
   organization_url: 
   title: Technical Note - Demand Uncertainty Reduction in Decentralized Supply Chains
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2417039
-
 - certificate_url: 
   date_end: ""
   date_start: "2015-10-29"
@@ -92,11 +103,18 @@ item:
   date_end: ""
   date_start: "2011-07-10"
   description: ""
-  organization: Production and Operations Management
+  organization: "   "
   organization_url: 
   title: "Inventory Control with a Cash Register: Sales Recorded but Not Demand or Shrinkage"
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.12511
-  
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.12511 
+- certificate_url: 
+  date_end: ""
+  date_start: "2011-07-10"
+  description: ""
+  organization: "   "
+  organization_url: 
+  title: "Managerial Regret and Inventory Pricing"
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.12511 
 ---
 
 
