@@ -1,7 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: accomplishments
+widget: github.omormeng.research'
 
 # This file represents a page section.
 headless: true
@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2021-05-09"
+  date_start: "2021-08-09"
   description: ""
   organization: Manufacturing & Service Operations Management
   organization_url: 
