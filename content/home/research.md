@@ -25,9 +25,9 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2018-11-26"
-  description: ""
-  organization: Managerial regret and pricing  |  Forthcoming. 3
+  date_start:  
+  description: Forchcoming
+  organization: Management Science
   organization_url: 
   title: Managerial regret and Inventory pricing 
   url: "media/Regret_Revision2.pdf"
