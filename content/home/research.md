@@ -25,8 +25,8 @@ subtitle:
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "with Yan Liu"
-  description: ""
+  date_start: "  "
+  description: "with Yan Liu"
   organization: Management Science
   organization_url: 
   title: Managerial Regret and Inventory Pricing
@@ -73,7 +73,7 @@ item:
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3117545
 - certificate_url: 
   date_end: ""
-  date_start: "2019-06-13"
+  date_start: "  "
   description: ""
   organization: Production and Operations Management
   organization_url: 
@@ -81,7 +81,7 @@ item:
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3403669
 - certificate_url: 
   date_end: ""
-  date_start: "2014-03-29"
+  date_start: "  "
   description: ""
   organization: Production and Operations Management
   organization_url: 
