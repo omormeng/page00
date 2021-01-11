@@ -74,7 +74,7 @@ item:
 
 - certificate_url: 
   date_end: ""
-  date_start: "2015-10-29"
+  date_start:  
   description: ""
   organization: Management Science
   organization_url: 
@@ -82,7 +82,7 @@ item:
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2596665
 - certificate_url: 
   date_end: ""
-  date_start: "2011-07-10"
+  date_start:  
   description: ""
   organization: "   "
   organization_url: 
