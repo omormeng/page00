@@ -29,7 +29,7 @@ item:
   description: ""
   organization: Managerial regret and pricing  |  Forthcoming. 3
   organization_url: 
-  title: Managerial regret and pricing (with Yan Liu)
+  title: Managerial regret and Inventory pricing 
   url: "media/Regret_Revision2.pdf"
 - certificate_url: 
   date_end: ""
