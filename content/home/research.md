@@ -92,7 +92,7 @@ item:
   date_end: ""
   date_start: "2011-07-10"
   description: ""
-  organization: "   "
+  organization: Production and Operations Management
   organization_url: 
   title: "Inventory Control with a Cash Register: Sales Recorded but Not Demand or Shrinkage"
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.12511
