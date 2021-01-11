@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-# date_format: Jan 2006
+date_format: Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -26,8 +26,8 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "   "
-  description: "Forthcoming with Yan Liu"
-  organization: Manufacturing & Service Operations Management
+  description: "Forthcoming. 3"
+  organization: Managerial regret and pricing (with Yan Liu)
   organization_url: 
   title: Managerial regret and pricing 
   url: "media/Regret_Revision2.pdf"
