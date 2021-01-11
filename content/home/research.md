@@ -1,7 +1,6 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-# widget: 'github.omormeng.research'
 widget: accomplishments
 
 # This file represents a page section.
@@ -16,23 +15,22 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
- date_format: Jan 2006
+date_format: Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
-#   `title` and `organization` are the required parameters.
+#   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2019-06-13"
+  date_start: "2020-04-07"
   description: ""
-  organization: Managerial regret and pricing  |  Forthcoming. 3
+  organization: Manufacturing & Service Operations Management
   organization_url: 
-  title: Managerial regret and pricing (with Yan Liu)
-  url: "media/Regret_Revision2.pdf"
+  title: AI and procurement
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3570967
 - certificate_url: 
   date_end: ""
   date_start: "2018-11-26"
