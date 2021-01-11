@@ -30,7 +30,7 @@ item:
   organization: Manufacturing & Service Operations Management
   organization_url: 
   title: AI and procurement
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3570967
+  url: "media/Regret_Revision2.pdf"
 - certificate_url: 
   date_end: ""
   date_start: "2018-11-26"
