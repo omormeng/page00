@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-# date_format: 
+ date_format: 15:04
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -26,7 +26,7 @@ subtitle:
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "   "
+  date_start: "2020-11-26"
   description: ""
   organization: Managerial regret and pricing  |  Forthcoming. 3
   organization_url: 
