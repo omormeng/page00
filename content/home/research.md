@@ -19,21 +19,21 @@ date_format: Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
+#   `title` and `organization` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
   date_end: ""
-  date_start:  
-  description: 
-  organization: Management Science
+  date_start: "2019-11-26"
+  description: ""
+  organization: Managerial regret and pricing  |  Forthcoming. 3
   organization_url: 
-  title: Managerial regret and Inventory pricing 
+  title: Managerial regret and pricing (with Yan Liu)
   url: "media/Regret_Revision2.pdf"
 - certificate_url: 
   date_end: ""
-  date_start: "2021"
+  date_start: "2018-11-26"
   description: ""
   organization: Manufacturing & Service Operations Management
   organization_url: 
@@ -41,7 +41,7 @@ item:
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3290336
 - certificate_url: 
   date_end: ""
-  date_start: "2020"
+  date_start: "2017-07-01"
   description: ""
   organization: Management Science
   organization_url: 
@@ -49,7 +49,7 @@ item:
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3234023
 - certificate_url: 
   date_end: ""
-  date_start: "2019"
+  date_start: "2018-02-15"
   description: ""
   organization: Strategic Management Journal
   organization_url: 
@@ -74,17 +74,17 @@ item:
 
 - certificate_url: 
   date_end: ""
-  date_start:  
+  date_start: "2015-10-29"
   description: ""
   organization: Management Science
   organization_url: 
   title: Overconfident Competing Newsvendors
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2596665
 - certificate_url: 
-  date_end: "2016"
-  date_start:" "
+  date_end: ""
+  date_start: "2011-07-10"
   description: ""
-  organization: ""
+  organization: "   "
   organization_url: 
   title: "Inventory Control with a Cash Register: Sales Recorded but Not Demand or Shrinkage"
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1881988
