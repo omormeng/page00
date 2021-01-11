@@ -15,13 +15,16 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 
+# date_format: 
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
 #   `title` and `organization` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+columns: '1'
+
 item:
 - certificate_url: 
   date_end: ""
