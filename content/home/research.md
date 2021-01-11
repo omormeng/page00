@@ -25,7 +25,7 @@ subtitle:
 item:
 - certificate_url: 
   date_end: ""
-  date_start: " "
+  date_start: "   "
   description: "Forthcoming with Yan Liu"
   organization: Manufacturing & Service Operations Management
   organization_url: 
