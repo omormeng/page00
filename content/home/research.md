@@ -25,8 +25,8 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2020-04-07"
-  description: ""
+  date_start: "Forthcoming"
+  description: "with Yan Liu"
   organization: Manufacturing & Service Operations Management
   organization_url: 
   title: Managerial regret and pricing 
