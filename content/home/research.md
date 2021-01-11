@@ -29,7 +29,7 @@ item:
   description: ""
   organization: Manufacturing & Service Operations Management
   organization_url: 
-  title: AI and procurement
+  title: Managerial regret and pricing 
   url: "media/Regret_Revision2.pdf"
 - certificate_url: 
   date_end: ""
