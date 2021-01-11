@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
- date_format: 15:04
+ date_format: "  "
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
