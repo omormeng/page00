@@ -26,7 +26,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start:  
-  description: Forchcoming
+  description: 
   organization: Management Science
   organization_url: 
   title: Managerial regret and Inventory pricing 
