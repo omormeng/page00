@@ -33,7 +33,7 @@ item:
   url: 
 - certificate_url: 
   date_end: ""
-  date_start: ""
+  date_start: "  "
   description: ""
   organization: Manufacturing and Service Operations Management
   organization_url: 
