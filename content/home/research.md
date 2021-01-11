@@ -33,7 +33,7 @@ item:
   url: "media/Regret_Revision2.pdf"
 - certificate_url: 
   date_end: ""
-  date_start: "2018-11-26"
+  date_start: "2021"
   description: ""
   organization: Manufacturing & Service Operations Management
   organization_url: 
@@ -41,7 +41,7 @@ item:
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3290336
 - certificate_url: 
   date_end: ""
-  date_start: "2017-07-01"
+  date_start: "2020"
   description: ""
   organization: Management Science
   organization_url: 
@@ -49,7 +49,7 @@ item:
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3234023
 - certificate_url: 
   date_end: ""
-  date_start: "2018-02-15"
+  date_start: "2019"
   description: ""
   organization: Strategic Management Journal
   organization_url: 
