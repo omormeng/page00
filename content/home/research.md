@@ -47,15 +47,6 @@ item:
   organization_url: 
   title: Wholesale price discrimination in global sourcing (with Ruomeng Cui, Jingyun Li and Lili Yu)
   url: "media/SSRN-id3290336.pdf"
-- certificate_url:
-#  date_end: ""
-#  date_start: "4"
-  description: ""
-  organization: Management Science  | 66 (9), 2020, 3879-3902
-  organization_url: 
-  title: Value of high-quality logistics: Evidence from a clash between SF Express and Alibaba (with Ruomeng Cui and Qiang Li)
-  url: "media/SSRN-id3234023.pdf"
 
-  
 ---
 
