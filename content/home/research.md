@@ -47,6 +47,9 @@ item:
   organization_url: 
   title: Wholesale price discrimination in global sourcing
   url: "media/SSRN-id3290336.pdf"
+  
+---
+
 - certificate_url:
 #  date_end: ""
 #  date_start: "4"
