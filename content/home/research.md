@@ -30,7 +30,7 @@ item:
   organization: Management Science   | Forthcoming
   organization_url: 
   title: Managerial regret and pricing (with Yan Liu)
-  url: "#media/Regret_Revision2.pdf"
+  url: "media/Regret_Revision2.pdf"
 - certificate_url: 
 #  date_end: ""
 #  date_start: "2"
@@ -38,14 +38,14 @@ item:
   organization: Manufacturing and Service Operations Management   | Forthcoming
   organization_url: 
   title: AI and procurement (with Ruomeng Cui and Shichen Zhang)
-  url: "#media/SSRN-id3570967.pdf"
+  url: "media/SSRN-id3570967.pdf"
 - certificate_url: 
 #  date_end: ""
-#  date_start: "1"
+#  date_start: "3"
   description: ""
-  organization: Management Science  | Forthcoming. 3
+  organization: Manufacturing and Service Operations Management  | Forthcoming
   organization_url: 
-  title: "Managerial regret and pricing (with Yan Liu)"
+  title: Wholesale price discrimination in global sourcing (with Ruomeng Cui, Jingyun Li and Lili Yu)
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3234023
 - certificate_url:
 #  date_end: ""
