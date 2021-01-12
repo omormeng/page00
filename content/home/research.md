@@ -59,15 +59,15 @@ item:
 #  date_end: ""
 #  date_start: "5"
   description: ""
-  # organization: Strategic Management Journal  | 40 (12), 2019, 1984-2010
+  organization: Strategic Management Journal  | 40 (12), 2019, 1984-2010
   organization_url: 
-  # title: Incumbent repositioning with decision biases (with Xianjin Du and Brian Wu)
+  title: Incumbent repositioning with decision biases (with Xianjin Du and Brian Wu)
   url: "media/SSRN-id3117545.pdf"
 - certificate_url: 
 #  date_end: ""
 #  date_start: "6"
   description: ""
-  # organization: Production and Operations Management
+  organization: Production and Operations Management
   organization_url: 
   title: Technical Note - Demand Uncertainty Reduction in Decentralized Supply Chains
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2417039
