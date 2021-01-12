@@ -70,7 +70,7 @@ item:
   organization: Production and Operations Management
   organization_url: 
   title: Technical Note - Demand Uncertainty Reduction in Decentralized Supply Chains
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2417039
+  url: 
 - certificate_url: 
 #  date_end: ""
 #  date_start: "7"
@@ -78,7 +78,7 @@ item:
   organization: Management Science
   organization_url: 
   title: Overconfident Competing Newsvendors
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2596665
+  url:  
 - certificate_url: 
 #  date_end: ""
 #  date_start: "8"
@@ -86,7 +86,7 @@ item:
   organization: "   "
   organization_url: 
   title: "Inventory Control with a Cash Register: Sales Recorded but Not Demand or Shrinkage"
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1881988
+  url:  
  - certificate_url: 
 #  date_end: ""
 #  date_start: "9"
@@ -94,7 +94,7 @@ item:
   organization: "   "
   organization_url: 
   title: "Inventory Control with a Cash Register: Sales Recorded but Not Demand or Shrinkage"
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1881988
+  url:  
   
 ---
 
