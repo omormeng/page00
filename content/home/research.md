@@ -79,28 +79,21 @@ item:
   organization_url: 
   title: Technical Note – Demand uncertainty reduction in decentralized supply chains
   url: "media/SSRN-id2417039.pdf"
-  
----
-
-
-
-
 - certificate_url: 
 #  date_end: ""
 #  date_start: "8"
   description: ""
-  organization: "   "
+  organization: "with Nicholas Petruzzi and Jun Zhang  | Management Science  | 63(8), 2017, 2637-2646"
   organization_url: 
-  title: "Inventory Control with a Cash Register: Sales Recorded but Not Demand or Shrinkage"
-  url:  
+  title: "Overconfident competing newsvendors"
+  url: "media/SSRN-id2596665.pdf"
  - certificate_url: 
 #  date_end: ""
 #  date_start: "9"
   description: ""
-  organization: "   "
+  organization: "with Alain Bensoussan, Metin Cakanyildirim, and Suresh P. Sethi  | Production and Operations Management  | 25(1), 2016, 9-21 (Covered by ScienceDaily, AAAS, and UTDallas News)"
   organization_url: 
-  title: "Inventory Control with a Cash Register: Sales Recorded but Not Demand or Shrinkage"
-  url:  
+  title: "Managing inventory with cash register information: Sales recorded but not demands"
+  url: "media/poms.12511.pdf"
   
 ---
-
