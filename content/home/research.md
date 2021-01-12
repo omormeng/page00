@@ -40,8 +40,8 @@ item:
   title: Wholesale Price Discrimination in Global Sourcing
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3290336
 - certificate_url: 
-  date_end: ""
-  date_start: "2017-07-01"
+#  date_end: ""
+#  date_start: "2017-07-01"
   description: ""
   organization: Management Science
   organization_url: 
