@@ -49,20 +49,20 @@ item:
   url: "media/SSRN-id3290336.pdf"
 - certificate_url:
 #  date_end: ""
-#  date_start: "2"
+#  date_start: "4"
   description: ""
-  organization: Strategic Management Journal
+  organization: Management Science  | 66 (9), 2020, 3879-3902
   organization_url: 
-  title: Incumbent Repositioning with Decision Biases
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3117545
+  title: Value of high-quality logistics: Evidence from a clash between SF Express and Alibaba (with Ruomeng Cui and Qiang Li)
+  url: "media/SSRN-id3234023.pdf"
 - certificate_url: 
-  date_end: ""
-  date_start: "2019-06-13"
+#  date_end: ""
+#  date_start: "5"
   description: ""
-  organization: Production and Operations Management
+  organization: Strategic Management Journal  | 40 (12), 2019, 1984-2010
   organization_url: 
-  title: Overconfident Distribution Channels
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3403669
+  title: Incumbent repositioning with decision biases (with Xianjin Du and Brian Wu)
+  url: "media/SSRN-id3117545.pdf"
 - certificate_url: 
   date_end: ""
   date_start: "2014-03-29"
