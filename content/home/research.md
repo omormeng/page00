@@ -46,7 +46,7 @@ item:
   organization: Manufacturing and Service Operations Management  | Forthcoming
   organization_url: 
   title: Wholesale price discrimination in global sourcing (with Ruomeng Cui, Jingyun Li and Lili Yu)
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3234023
+  url: "media/SSRN-id3290336.pdf"
 - certificate_url:
 #  date_end: ""
 #  date_start: "2"
