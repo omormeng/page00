@@ -63,27 +63,28 @@ item:
   organization_url: 
   title: Incumbent repositioning with decision biases 
   url: "media/SSRN-id3117545.pdf"
+- certificate_url: 
+#  date_end: ""
+#  date_start: "6"
+  description: ""
+  organization: Production and Operations Management  | 28 (6), 2019, 1347-1365
+  organization_url: 
+  title: Overconfident distribution channels
+  url: "media/SSRN-id3403669.pdf"
+- certificate_url: 
+#  date_end: ""
+#  date_start: "7"
+  description: ""
+  organization: Production and Operations Management  | 26 (1), 2017, 156-161
+  organization_url: 
+  title: Technical Note – Demand uncertainty reduction in decentralized supply chains
+  url: "media/SSRN-id2417039.pdf"
   
 ---
 
 
 
-- certificate_url: 
-#  date_end: ""
-#  date_start: "6"
-  description: ""
-  organization: Production and Operations Management
-  organization_url: 
-  title: Technical Note - Demand Uncertainty Reduction in Decentralized Supply Chains
-  url: 
-- certificate_url: 
-#  date_end: ""
-#  date_start: "7"
-  description: ""
-  organization: Management Science
-  organization_url: 
-  title: Overconfident Competing Newsvendors
-  url:  
+
 - certificate_url: 
 #  date_end: ""
 #  date_start: "8"
