@@ -26,8 +26,8 @@ item:
 - certificate_url: 
 #  date_end: ""
 #  date_start: "1"
-  description: "with Yan Liu"
-  organization: Management Science   | Forthcoming
+  description: ""
+  organization: with Yan Liu  |  Management Science   |  Forthcoming
   organization_url: 
   title: Managerial regret and pricing (with Yan Liu)
   url: "media/Regret_Revision2.pdf"
@@ -35,9 +35,9 @@ item:
 #  date_end: ""
 #  date_start: "2"
   description: ""
-  organization: Manufacturing and Service Operations Management   | Forthcoming
+  organization: with Ruomeng Cui and Shichen Zhang  |  Manufacturing and Service Operations Management   | Forthcoming
   organization_url: 
-  title: AI and procurement (with Ruomeng Cui and Shichen Zhang)
+  title: AI and procurement
   url: "media/SSRN-id3570967.pdf"
   
 ---
