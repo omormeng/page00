@@ -41,15 +41,15 @@ item:
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3290336
 - certificate_url: 
 #  date_end: ""
-#  date_start: "2017-07-01"
+#  date_start: "1"
   description: ""
-  organization: Management Science
+  organization: Management Science  | Forthcoming. 3
   organization_url: 
-  title: "Value of High-Quality Logistics: Evidence from a Clash Between SF Express and Alibaba"
+  title: "Managerial regret and pricing (with Yan Liu)"
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3234023
-- certificate_url: 
-  date_end: ""
-  date_start: "2018-02-15"
+- certificate_url:
+#  date_end: ""
+#  date_start: "2"
   description: ""
   organization: Strategic Management Journal
   organization_url: 
