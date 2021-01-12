@@ -47,6 +47,54 @@ item:
   organization_url: 
   title: Wholesale price discrimination in global sourcing (with Ruomeng Cui, Jingyun Li and Lili Yu)
   url: "media/SSRN-id3290336.pdf"
-
+- certificate_url:
+#  date_end: ""
+#  date_start: "4"
+  description: ""
+  # organization: Management Science  | 66 (9), 2020, 3879-3902
+  organization_url: 
+  title: Value of high-quality logistics: Evidence from a clash between SF Express and Alibaba (with Ruomeng Cui and Qiang Li)
+  url: "media/SSRN-id3234023.pdf"
+- certificate_url: 
+#  date_end: ""
+#  date_start: "5"
+  description: ""
+  # organization: Strategic Management Journal  | 40 (12), 2019, 1984-2010
+  organization_url: 
+  title: Incumbent repositioning with decision biases (with Xianjin Du and Brian Wu)
+  url: "media/SSRN-id3117545.pdf"
+- certificate_url: 
+#  date_end: ""
+#  date_start: "6"
+  description: ""
+  # organization: Production and Operations Management
+  organization_url: 
+  title: Technical Note - Demand Uncertainty Reduction in Decentralized Supply Chains
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2417039
+- certificate_url: 
+#  date_end: ""
+#  date_start: "7"
+  description: ""
+  organization: Management Science
+  organization_url: 
+  title: Overconfident Competing Newsvendors
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2596665
+- certificate_url: 
+#  date_end: ""
+#  date_start: "8"
+  description: ""
+  organization: "   "
+  organization_url: 
+  title: "Inventory Control with a Cash Register: Sales Recorded but Not Demand or Shrinkage"
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1881988
+ - certificate_url: 
+#  date_end: ""
+#  date_start: "9"
+  description: ""
+  organization: "   "
+  organization_url: 
+  title: "Inventory Control with a Cash Register: Sales Recorded but Not Demand or Shrinkage"
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1881988
+  
 ---
 
