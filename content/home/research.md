@@ -47,9 +47,6 @@ item:
   organization_url: 
   title: Wholesale price discrimination in global sourcing
   url: "media/SSRN-id3290336.pdf"
-  
----
-
 - certificate_url:
 #  date_end: ""
 #  date_start: "4"
@@ -58,6 +55,10 @@ item:
   organization_url: 
   title: "Value of high-quality logistics: Evidence from a clash between SF Express and Alibaba"
   url: "media/SSRN-id3234023.pdf"
+  
+---
+
+
 - certificate_url: 
 #  date_end: ""
 #  date_start: "5"
