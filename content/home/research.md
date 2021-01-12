@@ -26,7 +26,7 @@ item:
 - certificate_url: 
 #  date_end: ""
 #  date_start: "1"
-  description: ""
+  description: "with Yan Liu"
   organization: Management Science   | Forthcoming
   organization_url: 
   title: Managerial regret and pricing (with Yan Liu)
@@ -39,6 +39,9 @@ item:
   organization_url: 
   title: AI and procurement (with Ruomeng Cui and Shichen Zhang)
   url: "media/SSRN-id3570967.pdf"
+  
+---
+
 - certificate_url: 
 #  date_end: ""
 #  date_start: "3"
@@ -51,7 +54,7 @@ item:
 #  date_end: ""
 #  date_start: "4"
   description: ""
-#  organization: "Management Science  | 66 (9), 2020, 3879-3902"
+  organization: "Management Science  | 66 (9), 2020, 3879-3902"
   organization_url: 
   title: "Value of high-quality logistics: Evidence from a clash between SF Express and Alibaba (with Ruomeng Cui and Qiang Li)"
   url: "media/SSRN-id3234023.pdf"
