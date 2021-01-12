@@ -27,18 +27,18 @@ item:
 #  date_end: ""
 #  date_start: "1"
   description: ""
-  organization: Management Science  | Forthcoming
+  organization: Management Science   | Forthcoming
   organization_url: 
   title: Managerial regret and pricing (with Yan Liu)
   url: "#media/Regret_Revision2.pdf"
 - certificate_url: 
-  date_end: ""
-  date_start: "2018-11-26"
+#  date_end: ""
+#  date_start: "2"
   description: ""
-  organization: Manufacturing & Service Operations Management
+  organization: Manufacturing and Service Operations Management   | Forthcoming
   organization_url: 
-  title: Wholesale Price Discrimination in Global Sourcing
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3290336
+  title: AI and procurement (with Ruomeng Cui and Shichen Zhang)
+  url: "#media/SSRN-id3570967.pdf"
 - certificate_url: 
 #  date_end: ""
 #  date_start: "1"
