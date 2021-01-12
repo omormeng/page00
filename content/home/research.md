@@ -39,16 +39,13 @@ item:
   organization_url: 
   title: AI and procurement
   url: "media/SSRN-id3570967.pdf"
-  
----
-
 - certificate_url: 
 #  date_end: ""
 #  date_start: "3"
   description: ""
-  organization: Manufacturing and Service Operations Management  | Forthcoming
+  organization: with Ruomeng Cui, Jingyun Li and Lili Yu  |  Manufacturing and Service Operations Management  | Forthcoming
   organization_url: 
-  title: Wholesale price discrimination in global sourcing (with Ruomeng Cui, Jingyun Li and Lili Yu)
+  title: Wholesale price discrimination in global sourcing
   url: "media/SSRN-id3290336.pdf"
 - certificate_url:
 #  date_end: ""
