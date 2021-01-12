@@ -87,6 +87,9 @@ item:
   organization_url: 
   title: "Overconfident competing newsvendors"
   url: "media/SSRN-id2596665.pdf"
+
+  
+---
  - certificate_url: 
 #  date_end: ""
 #  date_start: "9"
@@ -95,5 +98,3 @@ item:
   organization_url: 
   title: "Managing inventory with cash register information: Sales recorded but not demands"
   url: "media/poms.12511.pdf"
-  
----
