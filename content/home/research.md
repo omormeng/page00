@@ -87,14 +87,14 @@ item:
   organization_url: 
   title: "Overconfident competing newsvendors"
   url: "media/SSRN-id2596665.pdf"
-
-  
----
- - certificate_url: 
+- certificate_url: 
 #  date_end: ""
 #  date_start: "9"
   description: ""
-  organization: "with Alain Bensoussan, Metin Cakanyildirim, and Suresh P. Sethi  | Production and Operations Management  | 25(1), 2016, 9-21 (Covered by ScienceDaily, AAAS, and UTDallas News)"
+#  organization: "with Alain Bensoussan, Metin Cakanyildirim, and Suresh P. Sethi  | Production and Operations Management  | 25(1), 2016, 9-21 (Covered by ScienceDaily, AAAS, and UTDallas News)"
   organization_url: 
   title: "Managing inventory with cash register information: Sales recorded but not demands"
   url: "media/poms.12511.pdf"
+  
+---
+
