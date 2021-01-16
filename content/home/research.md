@@ -1,5 +1,5 @@
 ---
-widget: 'github.omormeng.research'
+widget: github.omormeng.research
 active: true
 date_format: Jan 2006
 item:
@@ -70,5 +70,7 @@ item:
 widget_id: research
 headless: true
 weight: 50
-
+title: Representative Publications
+subtitle: null
 ---
+Representative Publications
