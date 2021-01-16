@@ -68,7 +68,7 @@ item:
       not demands"
     url: media/poms.12511.pdf
 widget_id: research
-headless: true
+headless: false
 weight: 50
 title: Publications
 subtitle: null
