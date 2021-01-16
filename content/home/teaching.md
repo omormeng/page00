@@ -31,5 +31,5 @@ item:
     organization: 
     organization_url: null
     title: Optimization and Spreadsheet Modeling
-
+weight: 60
 ---
