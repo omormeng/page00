@@ -1,8 +1,8 @@
 
 ---
 widget: 'github.omormeng.research'
-active: true
 headless: true
+
 weight: 50
 title: Representative Publications
 
