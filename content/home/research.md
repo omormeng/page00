@@ -11,15 +11,13 @@ item:
     url: media/Regret_Revision2.pdf
   - certificate_url: null
     description: ""
-    organization: with Ruomeng Cui and Shichen Zhang  |  Manufacturing and Service
-      Operations Management   | Forthcoming
+    organization: with Ruomeng Cui and Shichen Zhang  |  Manufacturing and Service Operations Management   | Forthcoming
     organization_url: null
     title: AI and procurement
     url: media/SSRN-id3570967.pdf
   - certificate_url: null
     description: ""
-    organization: with Ruomeng Cui, Jingyun Li and Lili Yu  |  Manufacturing and
-      Service Operations Management  | Forthcoming
+    organization: with Ruomeng Cui, Jingyun Li and Lili Yu  |  Manufacturing and Service Operations Management  | Forthcoming
     organization_url: null
     title: Wholesale price discrimination in global sourcing
     url: media/SSRN-id3290336.pdf
