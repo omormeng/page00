@@ -23,7 +23,7 @@ item:
     date_start: "2021-01-21"
     description: ""
     organization: with Yan Liu  |  Management Science   |  Forthcoming
-    organization_url: null
+    organization_url:  
     title: Managerial regret and pricing
     url: media/Regret_Revision2.pdf
   - certificate_url: 
@@ -32,7 +32,7 @@ item:
     description: ""
     organization: with Ruomeng Cui and Shichen Zhang  |  Manufacturing and Service
       Operations Management   | Forthcoming
-    organization_url: null
+    organization_url:  
     title: AI and procurement
     url: media/SSRN-id3570967.pdf
   - certificate_url: 
@@ -41,7 +41,7 @@ item:
     description: ""
     organization: with Ruomeng Cui, Jingyun Li and Lili Yu  |  Manufacturing and
       Service Operations Management  | Forthcoming
-    organization_url: null
+    organization_url:  
     title: Wholesale price discrimination in global sourcing
     url: media/SSRN-id3290336.pdf
   - certificate_url: 
@@ -68,7 +68,7 @@ item:
     date_start: "2019-06-13"
     description: ""
     organization: Production and Operations Management  | 28 (6), 2019, 1347-1365
-    organization_url: null
+    organization_url:  
     title: Overconfident distribution channels
     url: media/SSRN-id3403669.pdf
     
