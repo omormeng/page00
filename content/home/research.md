@@ -70,6 +70,5 @@ item:
     title: "Managing inventory with cash register information: Sales recorded but
       not demands"
     url: media/poms.12511.pdf
-
 ---
 # Representative Publications
