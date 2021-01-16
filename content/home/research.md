@@ -1,6 +1,6 @@
 
 ---
-widget: github.omormeng.research
+widget: 'github.omormeng.research'
 active: true
 headless: true
 weight: 30
