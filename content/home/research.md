@@ -2,9 +2,8 @@
 ---
 widget: github.omormeng.research
 active: false
-widget_id: research
 headless: true
-weight: 50
+weight: 30
 
 item:
   - certificate_url: null
