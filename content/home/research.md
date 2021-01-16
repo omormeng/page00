@@ -1,6 +1,6 @@
 ---
 widget: github.omormeng.research
-active: true
+active: false
 item:
   - certificate_url: null
     description: ""
