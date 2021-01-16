@@ -1,7 +1,8 @@
 ---
 widget: accomplishments
 active: true
-date_format: Jan 2006
+date_format: 2006
+
 item:
   - certificate_url: null
     date_end: ""
