@@ -3,7 +3,7 @@
 widget: 'github.omormeng.research'
 active: true
 headless: true
-weight: 30
+weight: 50
 
 item:
   - certificate_url: null
