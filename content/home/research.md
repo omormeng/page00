@@ -1,6 +1,7 @@
 ---
 widget: github.omormeng.research
 active: true
+date_format: Jan 2006
 item:
   - certificate_url: null
     description: ""
@@ -67,8 +68,8 @@ item:
       not demands"
     url: media/poms.12511.pdf
 widget_id: research
-headless: false
+headless: true
 weight: 50
-title: Publications
+title: Representative Publications
 subtitle: null
 ---
