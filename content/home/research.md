@@ -1,6 +1,7 @@
+# Representative Publications
 ---
 widget: github.omormeng.research
-active: true
+active: false
 item:
   - certificate_url: null
     description: ""
@@ -69,7 +70,5 @@ item:
 widget_id: research
 headless: true
 weight: 50
-title: Representative Publications
-subtitle: Representative Publications
+
 ---
-# **Representative Publications**
