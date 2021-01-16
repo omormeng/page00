@@ -1,9 +1,11 @@
 
 ---
 widget: 'github.omormeng.research'
+
 headless: true
 
 weight: 50
+
 title: Representative Publications
 
 item:
