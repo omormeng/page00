@@ -4,9 +4,9 @@ active: true
 item:
   - certificate_url: null
     description: ""
-    organization: Meng Li and Yan Liu  |  Management Science   |  Forthcoming
+    organization: 
     organization_url: null
-    title: Managerial regret and inventory pricing
+    title: Managerial regret and inventory pricing, Meng Li and Yan Liu  |  Management Science   |  Forthcoming
     url: media/Regret_Revision2.pdf
   - certificate_url: null
     description: ""
