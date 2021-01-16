@@ -1,13 +1,6 @@
-
 ---
-widget: 'github.omormeng.research'
-
-headless: true
-
-weight: 50
-
-title: Representative Publications
-
+widget: github.omormeng.research
+active: true
 item:
   - certificate_url: null
     description: ""
@@ -73,5 +66,9 @@ item:
     title: "Managing inventory with cash register information: Sales recorded but
       not demands"
     url: media/poms.12511.pdf
+widget_id: research
+headless: true
+weight: 50
+title: Representative Publications
+subtitle: Representative Publications
 ---
-# Representative Publications
