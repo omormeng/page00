@@ -1,5 +1,5 @@
 ---
-widget: github.omormeng.research
+widget: 'github.omormeng.research'
 active: true
 date_format: Jan 2006
 item:
