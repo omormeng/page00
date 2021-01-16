@@ -58,7 +58,7 @@ item:
     url: media/SSRN-id3403669.pdf
  ---
  
- ### 
+
   - certificate_url: null
     description: ""
     organization: Production and Operations Management  | 26 (1), 2017, 156-161
