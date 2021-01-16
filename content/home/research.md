@@ -1,6 +1,6 @@
 ---
 widget: github.omormeng.research
-active: false
+active: true
 date_format: Jan 2006
 item:
   - certificate_url: null
