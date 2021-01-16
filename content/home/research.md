@@ -70,6 +70,5 @@ widget_id: research
 headless: true
 weight: 50
 title: Representative Publications
-subtitle: Representative Publications
+
 ---
-# RepresentativePublications
