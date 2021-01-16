@@ -1,7 +1,8 @@
 ---
 widget: github.omormeng.research
 active: true
-date_format: Jan 2006
+title: Representative Publications
+
 item:
   - certificate_url: null
     description: ""
