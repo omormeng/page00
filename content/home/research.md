@@ -12,10 +12,7 @@ item:
     organization_url: 
     title: Transshipment Between Overconfident Newsvendors
     url: 
-  
-
----
-- certificate_url: null
+ - certificate_url: null
     description: ""
     organization: Meng Li and Yan Liu  |  Management Science   |  Forthcoming
     organization_url: null
@@ -69,7 +66,10 @@ item:
       63(8), 2017, 2637-2646
     organization_url: null
     title: Overconfident competing newsvendors
-    url: media/SSRN-id2596665.pdf
+    url: media/SSRN-id2596665.pdf 
+
+---
+
   - certificate_url: null
     description: ""
     organization: Alain Bensoussan, Metin Cakanyildirim, Meng Li, and Suresh P. Sethi  |
