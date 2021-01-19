@@ -19,8 +19,6 @@ item:
     title: Managerial regret and inventory pricing
     url: media/Regret_Revision2.pdf
 
-
----
   - certificate_url: null
     description: ""
     organization:  Ruomeng Cui, Meng Li, and Shichen Zhang  |  Manufacturing and Service
@@ -35,6 +33,8 @@ item:
     organization_url: null
     title: Wholesale price discrimination in global sourcing
     url: media/SSRN-id3290336.pdf
+---
+
   - certificate_url: null
     description: ""
     organization: Ruomeng Cui, Meng Li, and Qiang Li  |  Management Science  | 66 (9),
