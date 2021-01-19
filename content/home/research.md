@@ -18,7 +18,6 @@ item:
     organization_url: null
     title: Managerial regret and inventory pricing
     url: media/Regret_Revision2.pdf
-
   - certificate_url: null
     description: ""
     organization:  Ruomeng Cui, Meng Li, and Shichen Zhang  |  Manufacturing and Service
