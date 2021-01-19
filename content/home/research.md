@@ -4,7 +4,6 @@ active: true
 widget_id: research
 headless: true
 weight: 50
-title: Representative Publications
 
 item:
  - certificate_url: null
