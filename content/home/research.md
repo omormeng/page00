@@ -60,6 +60,10 @@ item:
     title: Technical Note – Demand uncertainty reduction in decentralized supply
       chains
     url: media/SSRN-id2417039.pdf
+
+
+---
+
   - certificate_url: null
     description: ""
     organization: Meng Li, Nicholas Petruzzi and Jun Zhang  | Management Science  |
@@ -67,9 +71,6 @@ item:
     organization_url: null
     title: Overconfident competing newsvendors
     url: media/SSRN-id2596665.pdf 
-
----
-
   - certificate_url: null
     description: ""
     organization: Alain Bensoussan, Metin Cakanyildirim, Meng Li, and Suresh P. Sethi  |
