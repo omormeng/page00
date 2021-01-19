@@ -12,7 +12,7 @@ item:
     organization_url: 
     title: Transshipment Between Overconfident Newsvendors
     url: 
- - certificate_url: null
+ -  certificate_url: null
     description: ""
     organization: Meng Li and Yan Liu  |  Management Science   |  Forthcoming
     organization_url: null
