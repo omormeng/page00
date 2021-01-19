@@ -54,8 +54,6 @@ item:
     title: Overconfident distribution channels
     url: media/SSRN-id3403669.pdf
 
-
-
 ---
 
   - certificate_url: null
