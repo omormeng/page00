@@ -20,8 +20,7 @@ item:
     url: media/Regret_Revision2.pdf
   - certificate_url: null
     description: ""
-    organization:  Ruomeng Cui, Meng Li, and Shichen Zhang  |  Manufacturing and Service
-      Operations Management   | Forthcoming
+    organization:  Ruomeng Cui, Meng Li, and Shichen Zhang  |  Manufacturing and Service Operations Management   | Forthcoming
     organization_url: null
     title: AI and procurement
     url: media/SSRN-id3570967.pdf
