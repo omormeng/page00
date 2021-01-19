@@ -25,7 +25,10 @@ item:
     organization_url: null
     title: AI and procurement
     url: media/SSRN-id3570967.pdf
-  - certificate_url: null
+  
+---
+
+- certificate_url: null
     description: ""
     organization: Ruomeng Cui, Jingyun Li, Meng Li, and Lili Yu  |  Manufacturing and
       Service Operations Management  | Forthcoming
@@ -75,4 +78,3 @@ item:
     title: "Managing inventory with cash register information: Sales recorded but
       not demands"
     url: media/poms.12511.pdf
----
