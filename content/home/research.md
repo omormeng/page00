@@ -8,7 +8,7 @@ weight: 50
 item:
  -  certificate_url: 
     description: ""
-    organization: Jialu Li, Meng Li, and Xuan Zhao | production and operations management | Forthcoming
+    organization: Jialu Li, Meng Li, and Xuan Zhao  | production and operations management  | Forthcoming
     organization_url: 
     title: Transshipment Between Overconfident Newsvendors
     url: 
