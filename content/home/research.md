@@ -25,6 +25,8 @@ item:
     organization_url: null
     title: AI and procurement
     url: media/SSRN-id3570967.pdf
+
+---
   - certificate_url: null
     description: ""
     organization: Ruomeng Cui, Jingyun Li, Meng Li, and Lili Yu  |  Manufacturing and
@@ -32,8 +34,6 @@ item:
     organization_url: null
     title: Wholesale price discrimination in global sourcing
     url: media/SSRN-id3290336.pdf
----
-
   - certificate_url: null
     description: ""
     organization: Ruomeng Cui, Meng Li, and Qiang Li  |  Management Science  | 66 (9),
