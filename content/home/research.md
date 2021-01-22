@@ -14,16 +14,16 @@ item:
     url: "   "
  -  certificate_url: null
     description: ""
-    organization: Meng Li and Yan Liu  |  Management Science   |  Forthcoming
-    organization_url: null
-    title: Managerial regret and inventory pricing
-    url: media/Regret_Revision2.pdf
- -  certificate_url: null
-    description: ""
     organization: Ruomeng Cui, Meng Li, and Shichen Zhang | Manufacturing and Service Operations Management | Forthcoming
     organization_url: null
     title: AI and procurement
     url: media/SSRN-id3570967.pdf
+ -  certificate_url: null
+    description: ""
+    organization: Meng Li and Yan Liu  |  Management Science   |  Forthcoming
+    organization_url: null
+    title: Managerial regret and inventory pricing
+    url: media/Regret_Revision2.pdf
  -  certificate_url: null
     description: ""
     organization: Ruomeng Cui, Jingyun Li, Meng Li, and Lili Yu  |  Manufacturing and
