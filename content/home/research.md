@@ -10,7 +10,7 @@ item:
     description: ""
     organization: Meng Li, Tao Li  |   | 
     organization_url: 
-    title: AI Automation and Retailer Regret in Supply Chains
+    title: AI automation and retailer regret in supply chains
     url: "   "
  -  certificate_url: 
     description: ""
