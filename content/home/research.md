@@ -8,6 +8,12 @@ weight: 50
 item:
  -  certificate_url: 
     description: ""
+    organization: Meng Li, Tao Li  |   | 
+    organization_url: 
+    title: AI Automation and Retailer Regret in Supply Chains
+    url: "   "
+ -  certificate_url: 
+    description: ""
     organization: Jialu Li, Meng Li, and Xuan Zhao  | production and operations management  | Forthcoming
     organization_url: 
     title: Transshipment between overconfident newsvendors
