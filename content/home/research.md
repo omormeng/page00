@@ -12,6 +12,12 @@ item:
     organization_url: 
     title: AI automation and retailer regret in supply chains
     url: "   "
+-  certificate_url: 
+    description: ""
+    organization: Boxun Li, Meng Li, Chao Liang  |   | 
+    organization_url: 
+    title: Cry-Wolf Syndrome in Recommendation
+    url: "   "
  -  certificate_url: 
     description: ""
     organization: Jialu Li, Meng Li, and Xuan Zhao  | production and operations management  | Forthcoming
