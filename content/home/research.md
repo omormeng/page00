@@ -12,7 +12,7 @@ item:
     organization_url: 
     title: AI automation and retailer regret in supply chains
     url: "   "
--  certificate_url: 
+-   certificate_url: 
     description: ""
     organization: Boxun Li, Meng Li, Chao Liang  |   | 
     organization_url: 
