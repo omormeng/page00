@@ -16,7 +16,7 @@ item:
     description: ""
     organization: Boxun Li, Meng Li, Chao Liang  |   | 
     organization_url: 
-    title: Cry-Wolf syndrome in recommendation
+    title: Cry-wolf syndrome in recommendation
     url: "   "
  -  certificate_url: 
     description: ""
