@@ -85,7 +85,7 @@ item:
     title: Overconfident competing newsvendors
     url: media/SSRN-id2596665.pdf 
  -  certificate_url: null
-    description: ""
+    description: "P1"
     organization: Alain Bensoussan, Metin Cakanyildirim, Meng Li, and Suresh P. Sethi  |
       Production and Operations Management  | 25(1), 2016, 9-21
     organization_url: null
