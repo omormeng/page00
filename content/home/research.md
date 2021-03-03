@@ -12,7 +12,7 @@ item:
     organization_url: 
     title: Beneficial Product Returns in Supply Chains
     url: "   "
--   certificate_url: 
+ -  certificate_url: 
     description: ""
     organization: Meng Li, Tao Li  |   | 
     organization_url: 
