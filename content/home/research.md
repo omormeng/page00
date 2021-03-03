@@ -85,11 +85,11 @@ item:
     title: Overconfident competing newsvendors
     url: media/SSRN-id2596665.pdf 
  -  certificate_url: null
-    description: "P1"
+    description: ""
     organization: Alain Bensoussan, Metin Cakanyildirim, Meng Li, and Suresh P. Sethi  |
       Production and Operations Management  | 25(1), 2016, 9-21
     organization_url: null
-    title: "Managing inventory with cash register information: Sales recorded but
+    title: [P1] "Managing inventory with cash register information: Sales recorded but
       not demands"
     url: media/poms.12511.pdf  
 ---
