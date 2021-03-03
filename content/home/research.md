@@ -8,6 +8,12 @@ weight: 50
 item:
  -  certificate_url: 
     description: ""
+    organization: Meng Li, Yunchuan Liu  |   | 
+    organization_url: 
+    title: Beneficial Product Returns in Supply Chains
+    url: "   "
+-  certificate_url: 
+    description: ""
     organization: Meng Li, Tao Li  |   | 
     organization_url: 
     title: AI automation and retailer regret in supply chains
