@@ -82,7 +82,7 @@ item:
     organization: Meng Li, Nicholas Petruzzi and Jun Zhang  | Management Science  |
       63(8), 2017, 2637-2646
     organization_url: null
-    title: [P2] Overconfident competing newsvendors
+    title: "[P2] Overconfident competing newsvendors"
     url: media/SSRN-id2596665.pdf 
  -  certificate_url: null
     description: ""
