@@ -74,8 +74,8 @@ item:
     description: ""
     organization: Meng Li and Nicholas Petruzzi | Production and Operations Management  | 26 (1), 2017, 156-161
     organization_url: null
-    title: [P3] Technical Note – Demand uncertainty reduction in decentralized supply
-      chains
+    title: "[P3] Technical Note – Demand uncertainty reduction in decentralized supply
+      chains"
     url: media/SSRN-id2417039.pdf
  -  certificate_url: null
     description: ""
