@@ -62,7 +62,7 @@ item:
     organization: Xianjin Du, Meng Li, and Brian Wu  | Strategic Management Journal  | 40
       (12), 2019, 1984-2010
     organization_url: null
-    title: [P5] Incumbent repositioning with decision biases
+    title: "[P5] Incumbent repositioning with decision biases"
     url: media/SSRN-id3117545.pdf
  -  certificate_url: null
     description: ""
