@@ -16,13 +16,13 @@ item:
     description: ""
     organization: Boxun Li, Meng Li, Chao Liang  |   | 
     organization_url: 
-    title: [P11] Cry-wolf syndrome in recommendation
+    title: [P12] Cry-wolf syndrome in recommendation
     url: "   "
  -  certificate_url: 
     description: ""
     organization: Meng Li, Tao Li  | production and operations management  | Forthcoming
     organization_url: 
-    title: [P12] AI automation and retailer regret in supply chains
+    title: [P11] AI automation and retailer regret in supply chains
     url: "   "
  -  certificate_url: 
     description: ""
