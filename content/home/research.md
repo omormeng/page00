@@ -10,7 +10,7 @@ item:
     description: ""
     organization: Meng Li, Yunchuan Liu
     organization_url: 
-    title: "[P13] Beneficial Product Returns in Supply Chains"
+    title: "[P13] Beneficial product returns in supply chains"
     url: "   "
  -  certificate_url: 
     description: ""
