@@ -8,46 +8,46 @@ weight: 50
 item:
  -  certificate_url: 
     description: ""
-    organization: Meng Li, Yunchuan Liu  |   | 
+    organization: Meng Li, Yunchuan Liu
     organization_url: 
-    title: [P13] Beneficial Product Returns in Supply Chains
+    title: "[P13] Beneficial Product Returns in Supply Chains"
     url: "   "
  -  certificate_url: 
     description: ""
-    organization: Boxun Li, Meng Li, Chao Liang  |   | 
+    organization: Boxun Li, Meng Li, Chao Liang
     organization_url: 
-    title: [P12] Cry-wolf syndrome in recommendation
+    title: "[P12] Cry-wolf syndrome in recommendation"
     url: "   "
  -  certificate_url: 
     description: ""
     organization: Meng Li, Tao Li  | production and operations management  | Forthcoming
     organization_url: 
-    title: [P11] AI automation and retailer regret in supply chains
+    title: "[P11] AI automation and retailer regret in supply chains"
     url: "   "
  -  certificate_url: 
     description: ""
     organization: Jialu Li, Meng Li, and Xuan Zhao  | production and operations management  | Forthcoming
     organization_url: 
-    title: [P10] Transshipment between overconfident newsvendors
+    title: "[P10] Transshipment between overconfident newsvendors"
     url: "   "
  -  certificate_url: null
     description: ""
     organization: Ruomeng Cui, Meng Li, and Shichen Zhang | Manufacturing and Service Operations Management | Forthcoming
     organization_url: null
-    title: [P9] AI and procurement
+    title: "[P9] AI and procurement"
     url: media/SSRN-id3570967.pdf
  -  certificate_url: null
     description: ""
     organization: Meng Li and Yan Liu  |  Management Science   |  Forthcoming
     organization_url: null
-    title: [P8] Managerial regret and inventory pricing
+    title: "[P8] Managerial regret and inventory pricing"
     url: media/Regret_Revision2.pdf
  -  certificate_url: null
     description: ""
     organization: Ruomeng Cui, Jingyun Li, Meng Li, and Lili Yu  |  Manufacturing and
       Service Operations Management  | Forthcoming
     organization_url: null
-    title: [P7] Wholesale price discrimination in global sourcing
+    title: "[P7] Wholesale price discrimination in global sourcing"
     url: media/SSRN-id3290336.pdf
  -  certificate_url: null
     description: ""
@@ -68,7 +68,7 @@ item:
     description: ""
     organization: Production and Operations Management  | 28 (6), 2019, 1347-1365
     organization_url: null
-    title: [P4] Overconfident distribution channels
+    title: "[P4] Overconfident distribution channels"
     url: media/SSRN-id3403669.pdf
  -  certificate_url: null
     description: ""
