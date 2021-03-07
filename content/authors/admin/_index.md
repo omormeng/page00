@@ -2,10 +2,6 @@
 title: Meng Li
 role: Associate Professor
 bio: ""
-interests:
-  - Supply Chain Management
-  - Managerial Behavior
-  - Learning and Earning
 social: []
 organizations:
   - name: Rutgers University, School of Business
@@ -21,3 +17,8 @@ education:
       institution: "  "
       year: ""
 email: meng.li@rutgers.edu
+
+interests:
+  - Supply Chain Management
+  - Managerial Behavior
+  - Learning and Earning
