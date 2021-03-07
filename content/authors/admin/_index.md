@@ -14,4 +14,5 @@ highlight_name: false
 
 
 I am always looking for self-motivated Ph.D. students who are interested in the field of operations management. Prospective students are welcome to email me with a CV.
+
 A postdoc position in the area of Operations Management is available. The applicant should possess a Ph.D. degree in a related discipline and a proven research record. The position is full time and is up to 2 years. The starting date is Fall 2021.
