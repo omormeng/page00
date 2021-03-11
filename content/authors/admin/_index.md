@@ -4,7 +4,7 @@ role: Associate Professor
 bio: ""
 social: []
 organizations:
-  - name: Rutgers University, School of Business
+  - name: Rutgers University, School of Business-Camden
 superuser: true
 highlight_name: false
 ---
