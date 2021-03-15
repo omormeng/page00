@@ -41,7 +41,7 @@ item:
     organization: Meng Li and Yan Liu  |  Management Science   |  Forthcoming
     organization_url: null
     title: "[P8] Managerial regret and inventory pricing"
-    url: media/Regret_Revision2.pdf
+    url: media/Regret_accepted_ms.pdf
  -  certificate_url: null
     description: ""
     organization: Ruomeng Cui, Jingyun Li, Meng Li, and Lili Yu  |  Manufacturing and
